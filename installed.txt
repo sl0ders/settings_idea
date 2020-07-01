@@ -1,0 +1,29 @@
+BashSupport
+Batch Scripts Support
+CMD Support
+Key Promoter X
+String Manipulation
+color.scheme.Monokai Materialized
+com.alayouni.ansiHighlight
+com.chrisrm.idea.MaterialThemeUI
+com.codestream.jetbrains-codestream
+com.daylerees.rainglow
+com.intellij.ideolog
+com.intellij.plugins.html.instantEditing
+com.jinsihou.react.snippets
+com.mallowigi
+com.markskelton.one-dark-theme
+com.mfwebstudio.atomonedark.plugin.id
+com.samdark.intellij-visual-studio-code-dark-plus
+com.thvardhan.gradianto
+com.wix.sasslint
+com.yoheimuta.intellij.plugin.protolint
+de.espend.idea.php.annotation
+fr.adrienbrault.idea.symfony2plugin
+github.cweijan.test-theme
+in.thekalinga.snippet.intellij
+io.protostuff.protostuff-jetbrains-plugin
+izhangzhihao.rainbow.brackets
+mobi.hsz.idea.gitignore
+org.psliwa.idea.composer
+ru.adelf.idea.dotenv
